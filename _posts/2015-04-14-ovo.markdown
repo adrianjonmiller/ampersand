@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Playfair"
+date:   2015-04-14 20:12:49
+categories: serif
+font: playfair
+designer: Claus Eggers Sørensen
+foundary: Claus Eggers Sørensen
+link: https://www.google.com/fonts/specimen/Playfair+Display
+---
+<!--more-->
+

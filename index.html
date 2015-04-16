@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home">
+  <ul class="grid">
+    {% for post in site.posts %}
+      <li class="col col-1-3">
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+          <a class="tile" href="{{ post.url | prepend: site.baseurl }}">
+            <span class="ampersand-{{post.font}}"></span>
+            <div class="tile-meta">
+              <p>{{ post.title }}</p>
+            </div>
+          </a>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
