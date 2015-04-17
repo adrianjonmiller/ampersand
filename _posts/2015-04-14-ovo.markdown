@@ -10,4 +10,4 @@ link: https://www.google.com/fonts/specimen/Ovo
 ---
 <!--more-->
 
-Ovo is a classically styled typeface. Originally it was inspired by caps found in a 1930's lettering guide with soft serifs, multiple axsis and a hand crafted aspect. It is remenicent of such classic faces like Palatino and Goudy with with softer serifs and more organic counters. Its ampersand is closer to the original 'et' abbreviation that modern more stylized forms with a rather long and elegant cross bar. Available for free web use through google fonts or type squirrel and released by Sokin Type Company.
+Ovo is a classically styled typeface. Originally it was inspired by caps found in a 1930's lettering guide with soft serifs, transitional axsis and a hand crafted feel. It is remenicent of such classic faces like Palatino and Goudy with with softer serifs and more organic counters. Its ampersand is closer to the original 'et' abbreviation that modern more stylized forms. Available for free web use through google fonts or type squirrel and released by Sokin Type Company.
